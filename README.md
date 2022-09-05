@@ -1,2 +1,3 @@
-# oticas-vida-devmedia
+# Óticas Vida
+
  Primeiro projeto com React JS do DevMedia
