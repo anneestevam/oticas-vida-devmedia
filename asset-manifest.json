@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/oticas-vida-devmedia/static/css/main.e59569cc.css",
+    "main.js": "/oticas-vida-devmedia/static/js/main.ea08fc8b.js",
+    "static/js/787.19c034d5.chunk.js": "/oticas-vida-devmedia/static/js/787.19c034d5.chunk.js",
+    "static/media/capa.png": "/oticas-vida-devmedia/static/media/capa.44a9e1db5439c08db3da.png",
+    "index.html": "/oticas-vida-devmedia/index.html",
+    "main.e59569cc.css.map": "/oticas-vida-devmedia/static/css/main.e59569cc.css.map",
+    "main.ea08fc8b.js.map": "/oticas-vida-devmedia/static/js/main.ea08fc8b.js.map",
+    "787.19c034d5.chunk.js.map": "/oticas-vida-devmedia/static/js/787.19c034d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e59569cc.css",
+    "static/js/main.ea08fc8b.js"
+  ]
+}
